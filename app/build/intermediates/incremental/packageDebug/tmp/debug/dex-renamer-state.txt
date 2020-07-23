@@ -1,0 +1,7 @@
+#Thu Jul 23 22:30:57 ICT 2020
+base.0=C\:\\Users\\HP\\AndroidStudioProjects\\17030022_UASMOBILE\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\HP\\AndroidStudioProjects\\17030022_UASMOBILE\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
