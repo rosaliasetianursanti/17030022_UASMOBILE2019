@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-34:12
+ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-35:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\02a0b5591867b269bf90099dda756d74\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a65c03b57a0caa425465ef6e2b642e63\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7c3616f46c233483189f28c6aecc1bf8\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
@@ -31,20 +31,20 @@ MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\HP\.gradle\caches\t
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7f446c61d119859cc910274a8162160c\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8ce8513e0c0ed0e577ea55f824679bf4\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:interpolator:28.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d7fd0a6b82dbac033f938c982be39bd3\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-34:12
-INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
 		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:3:5-53
 		INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-34:12
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-35:12
 		INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-34:12
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:1-35:12
 		INJECTED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:2:11-69
@@ -136,24 +136,28 @@ uses-permission#android.permission.WAKE_LOCK
 ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:12:22-70
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:12:5-78
+ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:13:5-78
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:12:22-76
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:13:5-80
+ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:14:5-80
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:13:22-78
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:14:5-75
+ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:15:5-75
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:14:22-73
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:15:22-73
 uses-permission#android.permission.CALL_PHONE
-ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:15:5-68
+ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:16:5-68
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:15:22-66
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:16:22-66
 application
-ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:17:5-32:19
+ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:18:5-33:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a65c03b57a0caa425465ef6e2b642e63\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\a65c03b57a0caa425465ef6e2b642e63\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:22:5-94
@@ -163,30 +167,30 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\HP\.gradle
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:23:9-35
 	android:label
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:20:9-41
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:21:9-41
 	android:roundIcon
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:21:9-54
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:22:9-54
 	android:icon
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:19:9-43
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:20:9-43
 	android:allowBackup
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:19:9-35
 	android:theme
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:23:9-40
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:24:9-40
 activity#id.mobilecomputing.a17030022_uasmobile.MainActivity
-ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:24:9-31:20
+ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:25:9-32:20
 	android:label
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:25:19-51
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:26:19-51
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:24:19-47
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:25:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from C:\Users\HP\AndroidStudioProjects\17030022_UASMOBILE\app\src\main\AndroidManifest.xml:30:27-74
